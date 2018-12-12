@@ -1,6 +1,14 @@
 # my-gist-toc
 
-[TOC]
+<!-- MarkdownTOC autolink="true"-->
+
+- [notes](#notes)
+- [snippets](#snippets)
+- [binder X Jupyter Notebook](#binder-x-jupyter-notebook)
+- [personal](#personal)
+
+<!-- /MarkdownTOC -->
+
 
 ## notes
 
