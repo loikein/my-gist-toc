@@ -19,7 +19,7 @@
 [bookmarklet translation](https://gist.github.com/loikein/9021de6f4041c736cd36868b2339ee4a)  
 [browser tab notepad](https://gist.github.com/loikein/24692da5ef45242a469dbf316b016c48)  
 
-[blogger css (\.css))](https://gist.github.com/loikein/7b2a4f7d98d366a732dafd755b5248ff)  
+[blogger css (\.css)](https://gist.github.com/loikein/7b2a4f7d98d366a732dafd755b5248ff)  
 [blogger css (\.md)](https://gist.github.com/loikein/900a6772a1e9ca3e55372534d441279d)  
 [blogger css code inline](https://gist.github.com/loikein/2220b18cef16fdca8fd33df68de6f5f7)  
 [blogger link box](https://gist.github.com/loikein/8c62bceb235bbb104f51333a2153c27f)  
