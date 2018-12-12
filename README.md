@@ -1,5 +1,6 @@
 # my-gist-toc
 
+## toc of toc
 <!-- MarkdownTOC autolink="true"-->
 
 - [notes](#notes)
@@ -8,7 +9,6 @@
 - [personal](#personal)
 
 <!-- /MarkdownTOC -->
-
 
 ## notes
 
