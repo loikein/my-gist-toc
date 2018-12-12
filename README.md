@@ -1,5 +1,7 @@
 # my-gist-toc
 
+[TOC]
+
 ## notes
 
 [notes: bash](https://gist.github.com/loikein/f7f1e470426c685a1c920c4b944e6c55)  
