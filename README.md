@@ -54,8 +54,7 @@
 ### r  
 
 [r packages](https://gist.github.com/loikein/416abdb35bc28c3279a5807fabf755a8)  
-
-[r load package](https://gist.github.com/loikein/0c14b829dc4f983dfd3f5aa7e23d8c9c)
+[r load package](https://gist.github.com/loikein/0c14b829dc4f983dfd3f5aa7e23d8c9c)  
 
 
 ## binder X Jupyter Notebook  
