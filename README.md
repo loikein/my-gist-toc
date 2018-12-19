@@ -19,7 +19,7 @@
 [notes: bash](https://gist.github.com/loikein/f7f1e470426c685a1c920c4b944e6c55)  
 [notes: html 5 & css 3](https://gist.github.com/loikein/8af785feed5a265ca0cd936299178902)  
 
-[notes: introduction to c](https://gist.github.com/loikein/253401a4cd9106a7fdc92d8aff34e98a)  
+notes: introduction to c  
 [notes: intermediate c](https://gist.github.com/loikein/0006bc7e97bb7709f06f540b30bfac9a)  
 [notes: pointer on c](https://gist.github.com/loikein/2ef8fa0340a25bb22a8516b286127a84)  
 
