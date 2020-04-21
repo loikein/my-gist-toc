@@ -38,11 +38,12 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
 
 ### browser extensions
 
+more can be found here: [loikein/geeky-bookmarklet-collection](https://github.com/loikein/geeky-bookmarklet-collection)
+
 - [IE User Agent](https://gist.github.com/loikein/db3240fcaff8410b6ab9754efccb81d5)
 - [translation bookmarklet](https://gist.github.com/loikein/9021de6f4041c736cd36868b2339ee4a)
 - [browser tab notepad](https://gist.github.com/loikein/24692da5ef45242a469dbf316b016c48)
 - [dark-webpage.js](https://gist.github.com/loikein/4ae303df29fc1fa1fb2300275807653e)
-
 
 ### CSS
 
@@ -52,6 +53,8 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
 - [Pawoo light theme](https://gist.github.com/loikein/776bc65e6b10b011aa68989311c815c0)
 
 #### Blogger
+
+see them in action here: [此生未命名 - Untitled Life](https://blog.loikein.one/)
 
 - [all my extra blogger css](https://gist.github.com/loikein/7b2a4f7d98d366a732dafd755b5248ff)
     - [blogger inline code (css)](https://gist.github.com/loikein/2220b18cef16fdca8fd33df68de6f5f7)
@@ -68,6 +71,8 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
 - [typora extra css](https://gist.github.com/loikein/ac98c61feb3055a00cdb4402cd2e3ba8)
 
 #### Ulysses
+
+disclaimer: I have stopped using Ulysses.
 
 - [Ulysses latex solution](https://gist.github.com/loikein/4e0c332581fb578384a0b478a5358828)
 - [Ulysses table beautifier](https://gist.github.com/loikein/b4236d258e3f24fa1647dbb5ed49878e)
