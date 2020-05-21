@@ -30,6 +30,7 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
 ## snippets
 
 - [Sublime Text 3 syntax highlight for GAUSS](https://gist.github.com/loikein/f41e2945d5d7bb4245cd9cdad61d05f4)
+- [Markdown app/programme test file](https://gist.github.com/loikein/27ef6913386b206d1b3c18b8e93c5768)
 
 ### mac
 
