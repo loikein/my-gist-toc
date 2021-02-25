@@ -8,7 +8,7 @@
     - [mac](#mac)
     - [browser extensions](#browser-extensions)
     - [CSS](#css)
-    - [R](#r)
+- [R](#r)
 - [binder & Jupyter Notebook](#binder--jupyter-notebook)
 - [personal](#personal)
 
@@ -36,7 +36,7 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
 
 - [delete .DS_store stuff](https://gist.github.com/loikein/199907f365e328522ba6150aae5af1c5)
 - [copy the link (not path) of a file/folder from finder with Automator](https://gist.github.com/loikein/55fa9bd9b6d942a688cb9293b265c885)
-- [my brewfile 20200113-2010](https://gist.github.com/loikein/57bbda0722a5b2aee5d5f2f616fc6194)
+- [my brewfile](https://gist.github.com/loikein/57bbda0722a5b2aee5d5f2f616fc6194)
 - [my today scripts](https://gist.github.com/loikein/03b70eb94cf3679ec19ce85e5503da9d)
 
 ### browser extensions
@@ -54,6 +54,7 @@ more can be found here: [loikein/geeky-bookmarklet-collection](https://github.co
 
 - [Responsive iframe](https://gist.github.com/loikein/783ec97822a884fed293a5e3c992893a)
 - [Pawoo light theme](https://gist.github.com/loikein/776bc65e6b10b011aa68989311c815c0)
+- [Pop up shadow](https://gist.github.com/loikein/d11420c111543ef31d0051f45038119b)
 
 #### Blogger
 
@@ -65,13 +66,13 @@ see them in action here: [此生未命名 - Untitled Life](https://blog.loikein.
     - [blogger link box (css + html)](https://gist.github.com/loikein/8c62bceb235bbb104f51333a2153c27f)
     - [blogger columns (css + html)](https://gist.github.com/loikein/8f6ebaa138ac6651ea7b9a91ba227bb1)
     - [blogger accordion (css + html)](https://gist.github.com/loikein/001a270e075e57c3bf819a8c9e36fc4d)
-    - Depreciated: [blogger css code tests](https://gist.github.com/loikein/900a6772a1e9ca3e55372534d441279d)
+    - Deprecated: [blogger css code tests](https://gist.github.com/loikein/900a6772a1e9ca3e55372534d441279d)
 - [instagram widget (old)](https://gist.github.com/loikein/144d59beebe77406eb3e98d4523f0933)
 - [instagram widget (new)](https://gist.github.com/loikein/bbefc82c0e5bced7e04c399031a40981)
 
 #### Typora
 
-- [typora extra css](https://gist.github.com/loikein/ac98c61feb3055a00cdb4402cd2e3ba8)
+- [Typora extra CSS](https://gist.github.com/loikein/ac98c61feb3055a00cdb4402cd2e3ba8)
 
 #### Ulysses
 
@@ -81,7 +82,7 @@ disclaimer: I have stopped using Ulysses.
 - [Ulysses table beautifier](https://gist.github.com/loikein/b4236d258e3f24fa1647dbb5ed49878e)
 - [Ulysses table beautifier\-compact](https://gist.github.com/loikein/82a47ae3f7ab31b7e45e1332a6c5ecf8)
 
-### R
+## R
 
 - [install all packages](https://gist.github.com/loikein/416abdb35bc28c3279a5807fabf755a8)
 - [load all packages](https://gist.github.com/loikein/0c14b829dc4f983dfd3f5aa7e23d8c9c)
