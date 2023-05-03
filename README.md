@@ -70,10 +70,6 @@ see them in action here: [此生未命名 - Untitled Life](https://blog.loikein.
 - [instagram widget (old)](https://gist.github.com/loikein/144d59beebe77406eb3e98d4523f0933)
 - [instagram widget (new)](https://gist.github.com/loikein/bbefc82c0e5bced7e04c399031a40981)
 
-#### Typora
-
-- [Typora extra CSS](https://gist.github.com/loikein/ac98c61feb3055a00cdb4402cd2e3ba8)
-
 #### Ulysses
 
 disclaimer: I have stopped using Ulysses.
