@@ -74,7 +74,6 @@ see them in action here: [此生未命名 - Untitled Life](https://blog.loikein.
 
 - [install all packages](https://gist.github.com/loikein/416abdb35bc28c3279a5807fabf755a8)
 - [load all packages](https://gist.github.com/loikein/0c14b829dc4f983dfd3f5aa7e23d8c9c)
-- [install blogdown](https://gist.github.com/loikein/b1684b56636f3ea20757d8891de9b208)
 
 ## binder & Jupyter Notebook
 
