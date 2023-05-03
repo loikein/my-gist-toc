@@ -70,11 +70,6 @@ see them in action here: [此生未命名 - Untitled Life](https://blog.loikein.
 - [instagram widget (old)](https://gist.github.com/loikein/144d59beebe77406eb3e98d4523f0933)
 - [instagram widget (new)](https://gist.github.com/loikein/bbefc82c0e5bced7e04c399031a40981)
 
-## R
-
-- [install all packages](https://gist.github.com/loikein/416abdb35bc28c3279a5807fabf755a8)
-- [load all packages](https://gist.github.com/loikein/0c14b829dc4f983dfd3f5aa7e23d8c9c)
-
 ## binder & Jupyter Notebook
 
 - [runtime\.txt ](https://gist.github.com/loikein/7e0b3098e4da0b4f552dc8127facd0de)
