@@ -48,13 +48,6 @@ more can be found here: [loikein/geeky-bookmarklet-collection](https://github.co
 - [browser tab notepad](https://gist.github.com/loikein/24692da5ef45242a469dbf316b016c48)
 - [dark-webpage.js](https://gist.github.com/loikein/4ae303df29fc1fa1fb2300275807653e)
 
-### CSS
-
-#### general
-
-- [Responsive iframe](https://gist.github.com/loikein/783ec97822a884fed293a5e3c992893a)
-- [Pawoo light theme](https://gist.github.com/loikein/776bc65e6b10b011aa68989311c815c0)
-- [Pop up shadow](https://gist.github.com/loikein/d11420c111543ef31d0051f45038119b)
 
 ## binder & Jupyter Notebook
 
