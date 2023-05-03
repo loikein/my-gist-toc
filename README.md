@@ -70,14 +70,6 @@ see them in action here: [此生未命名 - Untitled Life](https://blog.loikein.
 - [instagram widget (old)](https://gist.github.com/loikein/144d59beebe77406eb3e98d4523f0933)
 - [instagram widget (new)](https://gist.github.com/loikein/bbefc82c0e5bced7e04c399031a40981)
 
-#### Ulysses
-
-disclaimer: I have stopped using Ulysses.
-
-- [Ulysses latex solution](https://gist.github.com/loikein/4e0c332581fb578384a0b478a5358828)
-- [Ulysses table beautifier](https://gist.github.com/loikein/b4236d258e3f24fa1647dbb5ed49878e)
-- [Ulysses table beautifier\-compact](https://gist.github.com/loikein/82a47ae3f7ab31b7e45e1332a6c5ecf8)
-
 ## R
 
 - [install all packages](https://gist.github.com/loikein/416abdb35bc28c3279a5807fabf755a8)
