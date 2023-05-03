@@ -56,20 +56,6 @@ more can be found here: [loikein/geeky-bookmarklet-collection](https://github.co
 - [Pawoo light theme](https://gist.github.com/loikein/776bc65e6b10b011aa68989311c815c0)
 - [Pop up shadow](https://gist.github.com/loikein/d11420c111543ef31d0051f45038119b)
 
-#### Blogger
-
-see them in action here: [此生未命名 - Untitled Life](https://blog.loikein.one/)
-
-- [all my extra blogger css](https://gist.github.com/loikein/7b2a4f7d98d366a732dafd755b5248ff)
-    - [blogger inline code (css)](https://gist.github.com/loikein/2220b18cef16fdca8fd33df68de6f5f7)
-    - [number each row in a table](https://gist.github.com/loikein/e080acdc75f60385180ff360f5df3abc)
-    - [blogger link box (css + html)](https://gist.github.com/loikein/8c62bceb235bbb104f51333a2153c27f)
-    - [blogger columns (css + html)](https://gist.github.com/loikein/8f6ebaa138ac6651ea7b9a91ba227bb1)
-    - [blogger accordion (css + html)](https://gist.github.com/loikein/001a270e075e57c3bf819a8c9e36fc4d)
-    - Deprecated: [blogger css code tests](https://gist.github.com/loikein/900a6772a1e9ca3e55372534d441279d)
-- [instagram widget (old)](https://gist.github.com/loikein/144d59beebe77406eb3e98d4523f0933)
-- [instagram widget (new)](https://gist.github.com/loikein/bbefc82c0e5bced7e04c399031a40981)
-
 ## binder & Jupyter Notebook
 
 - [runtime\.txt ](https://gist.github.com/loikein/7e0b3098e4da0b4f552dc8127facd0de)
