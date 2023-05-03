@@ -34,8 +34,6 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
 
 ### mac
 
-- [delete .DS_store stuff](https://gist.github.com/loikein/199907f365e328522ba6150aae5af1c5)
-- [copy the link (not path) of a file/folder from finder with Automator](https://gist.github.com/loikein/55fa9bd9b6d942a688cb9293b265c885)
 - [my brewfile](https://gist.github.com/loikein/57bbda0722a5b2aee5d5f2f616fc6194)
 - [my today scripts](https://gist.github.com/loikein/03b70eb94cf3679ec19ce85e5503da9d)
 
