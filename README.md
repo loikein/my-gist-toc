@@ -52,8 +52,3 @@ more can be found here: [loikein/geeky-bookmarklet-collection](https://github.co
 - [runtime\.txt ](https://gist.github.com/loikein/7e0b3098e4da0b4f552dc8127facd0de)
 - [requirements\.txt](https://gist.github.com/loikein/ee0da94bd593f1b893f497c5dc72e510)
 - [postBuild](https://gist.github.com/loikein/8568a52495a979be9cd5a74cbd47e1b2)
-
-
-## personal
-
-- [睡眠](https://gist.github.com/loikein/79d2f08fa7a997783ef26b4f3492aea2)
