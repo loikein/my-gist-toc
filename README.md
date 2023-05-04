@@ -23,17 +23,12 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
 - [notes: 《書き込み式ドイツ語》](https://gist.github.com/loikein/bbb39565124575af24533b897c7483e7)
 - [notes: vending machines @ waseda](https://gist.github.com/loikein/5b30b01e22b186aabe161c96729a7f79)
 
-## snippets
-
-- [Sublime Text 3 syntax highlight for GAUSS](https://gist.github.com/loikein/f41e2945d5d7bb4245cd9cdad61d05f4)
-- [Markdown app/programme test file](https://gist.github.com/loikein/27ef6913386b206d1b3c18b8e93c5768)
-
-### mac
+## mac
 
 - [my brewfile](https://gist.github.com/loikein/57bbda0722a5b2aee5d5f2f616fc6194)
 - [my today scripts](https://gist.github.com/loikein/03b70eb94cf3679ec19ce85e5503da9d)
 
-### browser extensions
+## browser extensions
 
 more can be found here: [loikein/geeky-bookmarklet-collection](https://github.com/loikein/geeky-bookmarklet-collection)
 
