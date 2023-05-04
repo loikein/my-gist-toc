@@ -7,10 +7,6 @@
 - [snippets](#snippets)
     - [mac](#mac)
     - [browser extensions](#browser-extensions)
-    - [CSS](#css)
-- [R](#r)
-- [binder & Jupyter Notebook](#binder--jupyter-notebook)
-- [personal](#personal)
 
 <!-- /MarkdownTOC -->
 
@@ -45,10 +41,3 @@ more can be found here: [loikein/geeky-bookmarklet-collection](https://github.co
 - [translation bookmarklet](https://gist.github.com/loikein/9021de6f4041c736cd36868b2339ee4a)
 - [browser tab notepad](https://gist.github.com/loikein/24692da5ef45242a469dbf316b016c48)
 - [dark-webpage.js](https://gist.github.com/loikein/4ae303df29fc1fa1fb2300275807653e)
-
-
-## binder & Jupyter Notebook
-
-- [runtime\.txt ](https://gist.github.com/loikein/7e0b3098e4da0b4f552dc8127facd0de)
-- [requirements\.txt](https://gist.github.com/loikein/ee0da94bd593f1b893f497c5dc72e510)
-- [postBuild](https://gist.github.com/loikein/8568a52495a979be9cd5a74cbd47e1b2)
