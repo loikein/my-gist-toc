@@ -4,7 +4,6 @@
 <!-- MarkdownTOC levels=2,3 -->
 
 - [notes](#notes)
-- [mac](#mac)
 
 <!-- /MarkdownTOC -->
 
@@ -20,8 +19,3 @@ some have been moved to [#Programming - loikein's notes](https://notes.loikein.o
     - [notes: c\+\+](https://gist.github.com/loikein/26c70c9a3abe9c3f1b69191e08288247)
 - [notes: 《書き込み式ドイツ語》](https://gist.github.com/loikein/bbb39565124575af24533b897c7483e7)
 - [notes: vending machines @ waseda](https://gist.github.com/loikein/5b30b01e22b186aabe161c96729a7f79)
-
-## mac
-
-- [my brewfile](https://gist.github.com/loikein/57bbda0722a5b2aee5d5f2f616fc6194)
-- [my today scripts](https://gist.github.com/loikein/03b70eb94cf3679ec19ce85e5503da9d)
